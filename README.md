@@ -21,9 +21,7 @@ Para executar, é necessário compilar os arquivos Java e executar a classe `IFQ
 
 Divisão do trabalho
 
-- Seu Nome: integração das classes base e organização inicial do projeto.
-- Nome do Colega: revisão, testes e integração das demais partes.
+- Pedro Vitor: integração das classes base e organização inicial do projeto.
+- Heitor Henrique: revisão, testes e integração das demais partes.
 
-Integração
 
-O projeto foi integrado utilizando branches e Pull Requests pelo GitHub.
