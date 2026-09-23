@@ -29,6 +29,6 @@ public class Guerreiro extends Personagem {
 
     @Override
     public String habilidade() {
-        return getNome() + " realizou um golpe poderoso!";
+        return getNome() + " realizou um golpe!";
     }
 }
