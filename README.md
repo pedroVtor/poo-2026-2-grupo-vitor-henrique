@@ -1,5 +1,3 @@
-IF Quest
-
 Projeto em equipe desenvolvido para a disciplina de Programação Orientada a Objetos.
 
 Integrantes
@@ -7,11 +5,9 @@ Integrantes
 - Pedro Vítor Vaz Ribeiro
 - Heitor Henrique dos Anjos
 
-Projeto
+Projeto IF Quest
 
-Projeto IF Quest reunindo os conteúdos estudados até a Aula 6.
-
-Como executar
+Como executar:
 
 O projeto foi desenvolvido em Java.
 
@@ -21,7 +17,5 @@ Para executar, é necessário compilar os arquivos Java e executar a classe `IFQ
 
 Divisão do trabalho
 
-- Pedro Vitor: integração das classes base e organização inicial do projeto.
-- Heitor Henrique: revisão, testes e integração das demais partes.
-
-
+- Pedro Vítor Vaz Ribeiro: integração das classes base e organização inicial do projeto.
+- Heitor Henrique dos Anjos: revisão, testes e integração das demais partes.
