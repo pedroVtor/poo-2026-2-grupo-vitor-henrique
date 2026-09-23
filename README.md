@@ -1,5 +1,3 @@
-IF Quest
-
 Projeto em equipe desenvolvido para a disciplina de Programação Orientada a Objetos.
 
 Integrantes
